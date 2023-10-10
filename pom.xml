@@ -12,6 +12,7 @@
         <module>part1-rpc</module>
         <module>part2-frame</module>
         <module>part3-ai</module>
+        <module>part4-thread-pool</module>
     </modules>
 
 
