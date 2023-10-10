@@ -13,6 +13,7 @@
         <module>part2-frame</module>
         <module>part3-ai</module>
         <module>part4-thread-pool</module>
+        <module>part5-tool</module>
     </modules>
 
 
