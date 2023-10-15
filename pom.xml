@@ -17,6 +17,8 @@
         <module>part6-redis</module>
         <module>part7-oauth2</module>
         <module>part8-jdk</module>
+        <module>part9-k8s</module>
+        <module>part10-camera</module>
     </modules>
 
     <build>
